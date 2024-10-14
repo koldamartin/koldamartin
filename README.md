@@ -1,5 +1,5 @@
 ### Hi there 👋
-Previously structural engineer 🔨, now I am trying to break into AI. 💻
+Previously structural engineer 🔨, now AI/Python developer. 💻
 
 In October 2022 I started with _print("Hello World")_. And now I am designing chatbots and solving data science tasks.
 
